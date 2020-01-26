@@ -1,0 +1,29 @@
+{
+  "name": "parcel-react-typescript-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.0.2",
+    "@testing-library/react": "^9.4.0",
+    "@types/jest": "24.9.1",
+    "@types/react": "16.9.19",
+    "@types/react-dom": "16.9.5",
+    "jest": "25.1.0",
+    "jest-dom": "4.0.0",
+    "jest-extended": "0.11.4",
+    "parcel-bundler": "^1.6.1",
+    "ts-jest": "25.0.0",
+    "typescript": "^3.7.5"
+  },
+  "keywords": []
+}
